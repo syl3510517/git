@@ -1,3 +1,5 @@
-public class ssss {x=1
+public class ssss {x=1;
+    y=2;
+    z=3;
 
 }
